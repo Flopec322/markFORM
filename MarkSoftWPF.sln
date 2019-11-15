@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkSoftWPF", "MarkSoftWPF\MarkSoftWPF.csproj", "{1056F3F9-BA90-42BA-A39D-5FAD64D050B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1056F3F9-BA90-42BA-A39D-5FAD64D050B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1056F3F9-BA90-42BA-A39D-5FAD64D050B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1056F3F9-BA90-42BA-A39D-5FAD64D050B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1056F3F9-BA90-42BA-A39D-5FAD64D050B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BD5D3BA-FD55-4B17-944E-0E01C14CD1A6}
+	EndGlobalSection
+EndGlobal
